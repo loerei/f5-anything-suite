@@ -2,7 +2,7 @@
     "name": "f5-anything-suite",
     "displayName": "F5 Anything Suite (Zero-Config Execution Pack)",
     "description": "The ultimate zero-config execution extension pack. Includes F5 Anything, Clean Workspace, Easy Binary & Code Runner.",
-    "version": "0.1.1",
+    "version": "0.2.0",
     "publisher": "loerei",
     "engines": {
         "vscode": "^1.80.0"
