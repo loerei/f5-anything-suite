@@ -1,6 +1,6 @@
 # 🚀 F5 Anything Suite (Zero-Config Execution Pack)
 
-> 🎓 **Built specifically for CS Learners, Students, & Educators.**
+> 🎓 **Built for CS Learners, Students, & Educators.**
 > **The ultimate 1-click extension pack for instant code execution, zero workspace clutter, and automated compiler setups in VS Code.**
 
 ![VS Code Marketplace Version](https://img.shields.io/badge/VS%20Code%20Marketplace-v0.1.0-blue)
