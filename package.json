@@ -1,7 +1,7 @@
 {
     "name": "f5-anything-suite",
     "displayName": "F5 Anything Suite (Zero-Config Execution Pack)",
-    "description": "The ultimate zero-config execution extension pack. Includes F5 Anything, No More .vscode, Easy Binary & Code Runner.",
+    "description": "The ultimate zero-config execution extension pack. Includes F5 Anything, Clean Workspace, Easy Binary & Code Runner.",
     "version": "0.1.0",
     "publisher": "loerei",
     "engines": {
@@ -14,7 +14,7 @@
         "f5-anything",
         "extension pack",
         "zero config",
-        "no-dotvscode",
+        "clean workspace",
         "easy binary"
     ],
     "icon": "icon.png",
@@ -33,7 +33,7 @@
     "extensionPack": [
         "formulahendry.code-runner",
         "loerei.f5-anything",
-        "loerei.no-more-dotvscode",
+        "loerei.clean-workspace",
         "loerei.easy-binary"
     ]
 }
