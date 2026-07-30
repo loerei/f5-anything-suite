@@ -14,7 +14,7 @@
         "f5-anything",
         "extension pack",
         "zero config",
-        "no vscode",
+        "no-dotvscode",
         "easy binary"
     ],
     "icon": "icon.png",
@@ -33,7 +33,7 @@
     "extensionPack": [
         "formulahendry.code-runner",
         "loerei.f5-anything",
-        "loerei.no-more-vscode",
+        "loerei.no-more-dotvscode",
         "loerei.easy-binary"
     ]
 }
